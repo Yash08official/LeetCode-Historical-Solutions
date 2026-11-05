@@ -1,14 +1,14 @@
 # 🚀 LeetCode Historical Solutions — DSA Learning & Reference Library
 
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-533-2ea44f?style=for-the-badge&logo=leetcode)](./INDEX.md)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-534-2ea44f?style=for-the-badge&logo=leetcode)](./INDEX.md)
 [![Easy](https://img.shields.io/badge/Easy-142-00b8a3?style=for-the-badge)](./INDEX.md)
-[![Medium](https://img.shields.io/badge/Medium-284-ffc01e?style=for-the-badge)](./INDEX.md)
+[![Medium](https://img.shields.io/badge/Medium-285-ffc01e?style=for-the-badge)](./INDEX.md)
 [![Hard](https://img.shields.io/badge/Hard-107-ff375f?style=for-the-badge)](./INDEX.md)
 [![Languages](https://img.shields.io/badge/Languages-6-007ec6?style=for-the-badge)](#-programming-languages-available)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Yash08official-181717?style=for-the-badge&logo=github)](https://github.com/Yash08official)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-yashwasankar008-ffa116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yashwasankar008/)
 
-Welcome to **LeetCode Historical Solutions**, a structured, textbook-style **Data Structures, Algorithms, SQL, and JavaScript Reference Library** containing **533 solved LeetCode problems** with original source implementations and comprehensive per-problem technical documentation.
+Welcome to **LeetCode Historical Solutions**, a structured, textbook-style **Data Structures, Algorithms, SQL, and JavaScript Reference Library** containing **534 solved LeetCode problems** with original source implementations and comprehensive per-problem technical documentation.
 
 👉 **[Browse the Complete Problem & Topic Index (`INDEX.md`)](./INDEX.md)**
 
@@ -38,26 +38,26 @@ Each folder in this repository marks a concrete milestone—from foundational ha
 
 | Difficulty | Solved Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | **142** | 26.64% |
-| 🟡 **Medium** | **284** | 53.28% |
-| 🔴 **Hard** | **107** | 20.08% |
-| **Total Verified Problems** | **533** | **100.00%** |
+| 🟢 **Easy** | **142** | 26.59% |
+| 🟡 **Medium** | **285** | 53.37% |
+| 🔴 **Hard** | **107** | 20.04% |
+| **Total Verified Problems** | **534** | **100.00%** |
 
 ---
 
 ## 💻 Programming Languages Available
 
-All **533** original solution files are preserved untouched across **6** languages:
+All **534** original solution files are preserved untouched across **6** languages:
 
 | Language | Extension | Solutions | Share | Primary Problem Domains |
 | :--- | :---: | :---: | :---: | :--- |
-| **Java** | `.java` | **318** | 59.66% | Core DSA, Graphs, Trees, Dynamic Programming, Heaps, Contest Problems |
-| **JavaScript** | `.js` | **157** | 29.46% | Core DSA, Strings/Arrays, Closures, Promises, Functional Utilities |
-| **SQL (MySQL)** | `.sql` | **50** | 9.38% | Relational Joins, Window Functions, Aggregations, Subqueries |
+| **Java** | `.java` | **319** | 59.74% | Core DSA, Graphs, Trees, Dynamic Programming, Heaps, Contest Problems |
+| **JavaScript** | `.js` | **157** | 29.40% | Core DSA, Strings/Arrays, Closures, Promises, Functional Utilities |
+| **SQL (MySQL)** | `.sql` | **50** | 9.36% | Relational Joins, Window Functions, Aggregations, Subqueries |
 | **Python 3** | `.py` | **4** | 0.75% | Simulation, String Cost Shifts, Segment Trees, Grid DP (`3360`–`3363`) |
 | **C++** | `.cpp` | **3** | 0.56% | Sweep-Line Geometry, Grid Path Counting, Heavy-Light / Tree Queries |
 | **TypeScript** | `.ts` | **1** | 0.19% | Typed Matrix Frequency Analysis (`2965`) |
-| **Total** | — | **533** | **100.00%** | — |
+| **Total** | — | **534** | **100.00%** | — |
 
 ---
 
@@ -96,7 +96,7 @@ LeetCode-Historical-Solutions/
 
 | Range Directory | Problems | Easy | Medium | Hard | Index Section |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| [`1-100/`](./1-100) | **69** | 13 | 37 | 19 | [View in INDEX](./INDEX.md#range-1-100-69-problems) |
+| [`1-100/`](./1-100) | **70** | 13 | 38 | 19 | [View in INDEX](./INDEX.md#range-1-100-70-problems) |
 | [`101-200/`](./101-200) | **34** | 8 | 13 | 13 | [View in INDEX](./INDEX.md#range-101-200-34-problems) |
 | [`201-300/`](./201-300) | **24** | 3 | 9 | 12 | [View in INDEX](./INDEX.md#range-201-300-24-problems) |
 | [`301-400/`](./301-400) | **25** | 4 | 6 | 15 | [View in INDEX](./INDEX.md#range-301-400-25-problems) |
