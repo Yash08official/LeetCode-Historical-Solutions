@@ -1,14 +1,14 @@
 # 🚀 LeetCode Historical Solutions — DSA Learning & Reference Library
 
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-569-2ea44f?style=for-the-badge&logo=leetcode)](./INDEX.md)
-[![Easy](https://img.shields.io/badge/Easy-148-00b8a3?style=for-the-badge)](./INDEX.md)
-[![Medium](https://img.shields.io/badge/Medium-299-ffc01e?style=for-the-badge)](./INDEX.md)
-[![Hard](https://img.shields.io/badge/Hard-122-ff375f?style=for-the-badge)](./INDEX.md)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-574-2ea44f?style=for-the-badge&logo=leetcode)](./INDEX.md)
+[![Easy](https://img.shields.io/badge/Easy-150-00b8a3?style=for-the-badge)](./INDEX.md)
+[![Medium](https://img.shields.io/badge/Medium-301-ffc01e?style=for-the-badge)](./INDEX.md)
+[![Hard](https://img.shields.io/badge/Hard-123-ff375f?style=for-the-badge)](./INDEX.md)
 [![Languages](https://img.shields.io/badge/Languages-6-007ec6?style=for-the-badge)](#-programming-languages-available)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Yash08official-181717?style=for-the-badge&logo=github)](https://github.com/Yash08official)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-yashwasankar008-ffa116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yashwasankar008/)
 
-Welcome to **LeetCode Historical Solutions**, a structured, textbook-style **Data Structures, Algorithms, SQL, and JavaScript Reference Library** containing **569 solved LeetCode problems** with original source implementations and comprehensive per-problem technical documentation.
+Welcome to **LeetCode Historical Solutions**, a structured, textbook-style **Data Structures, Algorithms, SQL, and JavaScript Reference Library** containing **574 solved LeetCode problems** with original source implementations and comprehensive per-problem technical documentation.
 
 👉 **[Browse the Complete Problem & Topic Index (`INDEX.md`)](./INDEX.md)**
 
@@ -38,32 +38,32 @@ Each folder in this repository marks a concrete milestone—from foundational ha
 
 | Difficulty | Solved Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | **148** | 26.01% |
-| 🟡 **Medium** | **299** | 52.55% |
-| 🔴 **Hard** | **122** | 21.44% |
-| **Total Verified Problems** | **569** | **100.00%** |
+| 🟢 **Easy** | **150** | 26.13% |
+| 🟡 **Medium** | **301** | 52.44% |
+| 🔴 **Hard** | **123** | 21.43% |
+| **Total Verified Problems** | **574** | **100.00%** |
 
 ---
 
 ## 💻 Programming Languages Available
 
-All **569** original solution files are preserved untouched across **6** languages:
+All **574** original solution files are preserved untouched across **6** languages:
 
 | Language | Extension | Solutions | Share | Primary Problem Domains |
 | :--- | :---: | :---: | :---: | :--- |
-| **Java** | `.java` | **353** | 62.04% | Core DSA, Graphs, Trees, Dynamic Programming, Heaps, Contest Problems |
-| **JavaScript** | `.js` | **157** | 27.59% | Core DSA, Strings/Arrays, Closures, Promises, Functional Utilities |
-| **SQL (MySQL)** | `.sql` | **51** | 8.96% | Relational Joins, Window Functions, Aggregations, Subqueries |
+| **Java** | `.java` | **358** | 62.37% | Core DSA, Graphs, Trees, Dynamic Programming, Heaps, Contest Problems |
+| **JavaScript** | `.js` | **157** | 27.35% | Core DSA, Strings/Arrays, Closures, Promises, Functional Utilities |
+| **SQL (MySQL)** | `.sql` | **51** | 8.89% | Relational Joins, Window Functions, Aggregations, Subqueries |
 | **Python 3** | `.py` | **4** | 0.70% | Simulation, String Cost Shifts, Segment Trees, Grid DP (`3360`–`3363`) |
-| **C++** | `.cpp` | **3** | 0.53% | Sweep-Line Geometry, Grid Path Counting, Heavy-Light / Tree Queries |
-| **TypeScript** | `.ts` | **1** | 0.18% | Typed Matrix Frequency Analysis (`2965`) |
-| **Total** | — | **569** | **100.00%** | — |
+| **C++** | `.cpp` | **3** | 0.52% | Sweep-Line Geometry, Grid Path Counting, Heavy-Light / Tree Queries |
+| **TypeScript** | `.ts` | **1** | 0.17% | Typed Matrix Frequency Analysis (`2965`) |
+| **Total** | — | **574** | **100.00%** | — |
 
 ---
 
 ## 📁 Problem Range Directory Structure
 
-Problems are organized into **39** numeric parent directories in groups of 100 (`1-100/` through `3901-4000/`), preserving four-digit zero-padded folder names inside each range:
+Problems are organized into **40** numeric parent directories in groups of 100 (`1-100/` through `3901-4000/`), preserving four-digit zero-padded folder names inside each range:
 
 ```text
 LeetCode-Historical-Solutions/
@@ -130,13 +130,12 @@ LeetCode-Historical-Solutions/
 | [`3101-3200/`](./3101-3200) | **10** | 3 | 6 | 1 | [View in INDEX](./INDEX.md#range-3101-3200-10-problems) |
 | [`3201-3300/`](./3201-3300) | **7** | 1 | 5 | 1 | [View in INDEX](./INDEX.md#range-3201-3300-7-problems) |
 | [`3301-3400/`](./3301-3400) | **11** | 3 | 6 | 2 | [View in INDEX](./INDEX.md#range-3301-3400-11-problems) |
-| [`3501-3600/`](./3501-3600) | **1** | 0 | 0 | 1 | [View in INDEX](./INDEX.md#range-3501-3600-1-problems) |
+| [`3401-3500/`](./3401-3500) | **2** | 1 | 1 | 0 | [View in INDEX](./INDEX.md#range-3401-3500-2-problems) |
+| [`3501-3600/`](./3501-3600) | **4** | 1 | 1 | 2 | [View in INDEX](./INDEX.md#range-3501-3600-4-problems) |
 | [`3601-3700/`](./3601-3700) | **2** | 0 | 2 | 0 | [View in INDEX](./INDEX.md#range-3601-3700-2-problems) |
 | [`3701-3800/`](./3701-3800) | **2** | 1 | 1 | 0 | [View in INDEX](./INDEX.md#range-3701-3800-2-problems) |
 | [`3801-3900/`](./3801-3900) | **2** | 0 | 1 | 1 | [View in INDEX](./INDEX.md#range-3801-3900-2-problems) |
 | [`3901-4000/`](./3901-4000) | **2** | 1 | 1 | 0 | [View in INDEX](./INDEX.md#range-3901-4000-2-problems) |
-
-*(Note: Range `3401-3500` currently has 0 solved problems in this archive and is omitted so every directory contains verified solutions.)*
 
 ---
 
