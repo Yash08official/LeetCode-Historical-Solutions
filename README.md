@@ -1,14 +1,14 @@
 # 🚀 LeetCode Historical Solutions — DSA Learning & Reference Library
 
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-587-2ea44f?style=for-the-badge&logo=leetcode)](./INDEX.md)
-[![Easy](https://img.shields.io/badge/Easy-150-00b8a3?style=for-the-badge)](./INDEX.md)
-[![Medium](https://img.shields.io/badge/Medium-313-ffc01e?style=for-the-badge)](./INDEX.md)
-[![Hard](https://img.shields.io/badge/Hard-124-ff375f?style=for-the-badge)](./INDEX.md)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-602-2ea44f?style=for-the-badge&logo=leetcode)](./INDEX.md)
+[![Easy](https://img.shields.io/badge/Easy-153-00b8a3?style=for-the-badge)](./INDEX.md)
+[![Medium](https://img.shields.io/badge/Medium-320-ffc01e?style=for-the-badge)](./INDEX.md)
+[![Hard](https://img.shields.io/badge/Hard-129-ff375f?style=for-the-badge)](./INDEX.md)
 [![Languages](https://img.shields.io/badge/Languages-6-007ec6?style=for-the-badge)](#-programming-languages-available)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Yash08official-181717?style=for-the-badge&logo=github)](https://github.com/Yash08official)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-yashwasankar008-ffa116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/yashwasankar008/)
 
-Welcome to **LeetCode Historical Solutions**, a structured, textbook-style **Data Structures, Algorithms, SQL, and JavaScript Reference Library** containing **587 solved LeetCode problems** with original source implementations and comprehensive per-problem technical documentation.
+Welcome to **LeetCode Historical Solutions**, a structured, textbook-style **Data Structures, Algorithms, SQL, and JavaScript Reference Library** containing **602 solved LeetCode problems** with original source implementations and comprehensive per-problem technical documentation.
 
 👉 **[Browse the Complete Problem & Topic Index (`INDEX.md`)](./INDEX.md)**
 
@@ -38,26 +38,26 @@ Each folder in this repository marks a concrete milestone—from foundational ha
 
 | Difficulty | Solved Count | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | **150** | 25.55% |
-| 🟡 **Medium** | **313** | 53.32% |
-| 🔴 **Hard** | **124** | 21.13% |
-| **Total Verified Problems** | **587** | **100.00%** |
+| 🟢 **Easy** | **153** | 25.42% |
+| 🟡 **Medium** | **320** | 53.16% |
+| 🔴 **Hard** | **129** | 21.43% |
+| **Total Verified Problems** | **602** | **100.00%** |
 
 ---
 
 ## 💻 Programming Languages Available
 
-All **587** original solution files are preserved untouched across **6** languages:
+All **602** original solution files are preserved untouched across **6** languages:
 
 | Language | Extension | Solutions | Share | Primary Problem Domains |
 | :--- | :---: | :---: | :---: | :--- |
-| **Java** | `.java` | **371** | 63.20% | Core DSA, Graphs, Trees, Dynamic Programming, Heaps, Contest Problems |
-| **JavaScript** | `.js` | **157** | 26.75% | Core DSA, Strings/Arrays, Closures, Promises, Functional Utilities |
-| **SQL (MySQL)** | `.sql` | **51** | 8.69% | Relational Joins, Window Functions, Aggregations, Subqueries |
-| **Python 3** | `.py` | **4** | 0.68% | Simulation, String Cost Shifts, Segment Trees, Grid DP (`3360`–`3363`) |
-| **C++** | `.cpp` | **3** | 0.51% | Sweep-Line Geometry, Grid Path Counting, Heavy-Light / Tree Queries |
+| **Java** | `.java` | **382** | 63.46% | Core DSA, Graphs, Trees, Dynamic Programming, Heaps, Contest Problems |
+| **JavaScript** | `.js` | **161** | 26.74% | Core DSA, Strings/Arrays, Closures, Promises, Functional Utilities |
+| **SQL (MySQL)** | `.sql` | **51** | 8.47% | Relational Joins, Window Functions, Aggregations, Subqueries |
+| **Python 3** | `.py` | **4** | 0.66% | Simulation, String Cost Shifts, Segment Trees, Grid DP (`3360`–`3363`) |
+| **C++** | `.cpp` | **3** | 0.50% | Sweep-Line Geometry, Grid Path Counting, Heavy-Light / Tree Queries |
 | **TypeScript** | `.ts` | **1** | 0.17% | Typed Matrix Frequency Analysis (`2965`) |
-| **Total** | — | **587** | **100.00%** | — |
+| **Total** | — | **602** | **100.00%** | — |
 
 ---
 
@@ -75,12 +75,12 @@ LeetCode-Historical-Solutions/
 │   ├── 0002 Add Two Numbers/
 │   │   ├── 2add-two-numbers.java
 │   │   └── README.md
-│   └── ... (69 problems)
+│   └── ... (100 problems)
 │
 ├── 101-200/
 │   ├── 0101 Symmetric Tree/
 │   ├── 0102 Binary Tree Level Order Traversal/
-│   └── ... (34 problems)
+│   └── ... (43 problems)
 │
 ├── ...
 │
@@ -97,13 +97,13 @@ LeetCode-Historical-Solutions/
 | Range Directory | Problems | Easy | Medium | Hard | Index Section |
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | [`1-100/`](./1-100) | **100** | 19 | 62 | 19 | [View in INDEX](./INDEX.md#range-1-100-100-problems) |
-| [`101-200/`](./101-200) | **34** | 8 | 13 | 13 | [View in INDEX](./INDEX.md#range-101-200-34-problems) |
+| [`101-200/`](./101-200) | **43** | 11 | 19 | 13 | [View in INDEX](./INDEX.md#range-101-200-43-problems) |
 | [`201-300/`](./201-300) | **24** | 3 | 9 | 12 | [View in INDEX](./INDEX.md#range-201-300-24-problems) |
 | [`301-400/`](./301-400) | **25** | 4 | 6 | 15 | [View in INDEX](./INDEX.md#range-301-400-25-problems) |
 | [`401-500/`](./401-500) | **25** | 1 | 8 | 16 | [View in INDEX](./INDEX.md#range-401-500-25-problems) |
 | [`501-600/`](./501-600) | **20** | 4 | 7 | 9 | [View in INDEX](./INDEX.md#range-501-600-20-problems) |
 | [`601-700/`](./601-700) | **24** | 6 | 5 | 13 | [View in INDEX](./INDEX.md#range-601-700-24-problems) |
-| [`701-800/`](./701-800) | **12** | 3 | 8 | 1 | [View in INDEX](./INDEX.md#range-701-800-12-problems) |
+| [`701-800/`](./701-800) | **17** | 3 | 8 | 6 | [View in INDEX](./INDEX.md#range-701-800-17-problems) |
 | [`801-900/`](./801-900) | **11** | 2 | 7 | 2 | [View in INDEX](./INDEX.md#range-801-900-11-problems) |
 | [`901-1000/`](./901-1000) | **9** | 2 | 7 | 0 | [View in INDEX](./INDEX.md#range-901-1000-9-problems) |
 | [`1001-1100/`](./1001-1100) | **11** | 4 | 6 | 1 | [View in INDEX](./INDEX.md#range-1001-1100-11-problems) |
@@ -132,7 +132,7 @@ LeetCode-Historical-Solutions/
 | [`3301-3400/`](./3301-3400) | **11** | 3 | 6 | 2 | [View in INDEX](./INDEX.md#range-3301-3400-11-problems) |
 | [`3401-3500/`](./3401-3500) | **2** | 1 | 1 | 0 | [View in INDEX](./INDEX.md#range-3401-3500-2-problems) |
 | [`3501-3600/`](./3501-3600) | **4** | 1 | 1 | 2 | [View in INDEX](./INDEX.md#range-3501-3600-4-problems) |
-| [`3601-3700/`](./3601-3700) | **2** | 0 | 2 | 0 | [View in INDEX](./INDEX.md#range-3601-3700-2-problems) |
+| [`3601-3700/`](./3601-3700) | **3** | 0 | 3 | 0 | [View in INDEX](./INDEX.md#range-3601-3700-3-problems) |
 | [`3701-3800/`](./3701-3800) | **2** | 1 | 1 | 0 | [View in INDEX](./INDEX.md#range-3701-3800-2-problems) |
 | [`3801-3900/`](./3801-3900) | **2** | 0 | 1 | 1 | [View in INDEX](./INDEX.md#range-3801-3900-2-problems) |
 | [`3901-4000/`](./3901-4000) | **2** | 1 | 1 | 0 | [View in INDEX](./INDEX.md#range-3901-4000-2-problems) |
@@ -142,7 +142,7 @@ LeetCode-Historical-Solutions/
 ## 🧭 How to Navigate the Repository
 
 1. **By Problem Number:** Open the corresponding 100-problem parent folder (for example, problem `0218` is inside [`201-300/0218 The Skyline Problem/`](./201-300/0218%20The%20Skyline%20Problem)) or use **[Part 1 of `INDEX.md`](./INDEX.md#part-1-index-by-problem-range)**.
-2. **By DSA / SQL Topic:** Jump directly to **[Part 2 of `INDEX.md`](./INDEX.md#part-2-topic-wise-index-99-verified-leetcode-topics)** to practice curated problem sets across **99 verified topics** such as `Dynamic Programming`, `Graph`, `Binary Search`, `Two Pointers`, `Monotonic Stack`, `Trie`, or `Database`.
+2. **By DSA / SQL Topic:** Jump directly to **[Part 2 of `INDEX.md`](./INDEX.md#part-2-topic-wise-index-101-verified-leetcode-topics)** to practice curated problem sets across **101 verified topics** such as `Dynamic Programming`, `Graph`, `Binary Search`, `Two Pointers`, `Monotonic Stack`, `Trie`, or `Database`.
 3. **For Revision & Interview Prep:** Inside any problem folder, read `README.md` first—try deriving the optimal solution from the **Problem Description**, **Constraints**, and **Step-by-Step Thinking Process**, trace through the **Dry Run**, and then inspect the linked source file.
 4. **Quick Search in VS Code / GitHub:** Press `Ctrl+P` (VS Code) or `t` (GitHub) and type the 4-digit problem ID (e.g., `0146` or `3970`) to jump straight to its folder.
 
