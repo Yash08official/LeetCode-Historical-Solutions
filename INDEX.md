@@ -1,6 +1,6 @@
 # 📚 LeetCode Solutions — Complete Problem & Topic Index
 
-Complete navigation index for all **642** solved LeetCode problems in this repository (**161** Easy · **325** Medium · **156** Hard), organized both **by Numeric Problem Range** and **by Verified Topic / Tag**.
+Complete navigation index for all **652** solved LeetCode problems in this repository (**164** Easy · **330** Medium · **158** Hard), organized both **by Numeric Problem Range** and **by Verified Topic / Tag**.
 
 ⬅️ **[Back to Root README](./README.md)**
 
@@ -25,8 +25,8 @@ Complete navigation index for all **642** solved LeetCode problems in this repos
 | **[601-700](#range-601-700-24-problems)** | 24 | 6 | 5 | 13 | [`601-700/`](./601-700) |
 | **[701-800](#range-701-800-32-problems)** | 32 | 3 | 8 | 21 | [`701-800/`](./701-800) |
 | **[801-900](#range-801-900-23-problems)** | 23 | 2 | 7 | 14 | [`801-900/`](./801-900) |
-| **[901-1000](#range-901-1000-9-problems)** | 9 | 2 | 7 | 0 | [`901-1000/`](./901-1000) |
-| **[1001-1100](#range-1001-1100-11-problems)** | 11 | 4 | 6 | 1 | [`1001-1100/`](./1001-1100) |
+| **[901-1000](#range-901-1000-10-problems)** | 10 | 2 | 7 | 1 | [`901-1000/`](./901-1000) |
+| **[1001-1100](#range-1001-1100-20-problems)** | 20 | 7 | 11 | 2 | [`1001-1100/`](./1001-1100) |
 | **[1101-1200](#range-1101-1200-9-problems)** | 9 | 3 | 5 | 1 | [`1101-1200/`](./1101-1200) |
 | **[1201-1300](#range-1201-1300-10-problems)** | 10 | 4 | 6 | 0 | [`1201-1300/`](./1201-1300) |
 | **[1301-1400](#range-1301-1400-17-problems)** | 17 | 5 | 11 | 1 | [`1301-1400/`](./1301-1400) |
@@ -434,7 +434,7 @@ Complete navigation index for all **642** solved LeetCode problems in this repos
 | `0884` | [Uncommon Words from Two Sentences](./801-900/0884%20Uncommon%20Words%20from%20Two%20Sentences/README.md) | 🟢 Easy | `Hash Table`, `String`, `Counting` | JavaScript | [Open Folder](./801-900/0884%20Uncommon%20Words%20from%20Two%20Sentences) |
 | `0889` | [Construct Binary Tree from Preorder and Postorder Traversal](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md) | 🟡 Medium | `Array`, `Hash Table`, `Divide and Conquer`, `Tree`, `Binary Tree` | Java | [Open Folder](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) |
 
-### Range 901-1000 (9 Problems)
+### Range 901-1000 (10 Problems)
 
 | ID | Problem Title | Difficulty | Topics | Language | Folder |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -447,12 +447,22 @@ Complete navigation index for all **642** solved LeetCode problems in this repos
 | `0962` | [Maximum Width Ramp](./901-1000/0962%20Maximum%20Width%20Ramp/README.md) | 🟡 Medium | `Array`, `Two Pointers`, `Stack`, `Monotonic Stack` | Java | [Open Folder](./901-1000/0962%20Maximum%20Width%20Ramp) |
 | `0983` | [Minimum Cost For Tickets](./901-1000/0983%20Minimum%20Cost%20For%20Tickets/README.md) | 🟡 Medium | `Array`, `Dynamic Programming` | Java | [Open Folder](./901-1000/0983%20Minimum%20Cost%20For%20Tickets) |
 | `0994` | [Rotting Oranges](./901-1000/0994%20Rotting%20Oranges/README.md) | 🟡 Medium | `Array`, `Breadth-First Search`, `Matrix` | JavaScript | [Open Folder](./901-1000/0994%20Rotting%20Oranges) |
+| `1000` | [Minimum Cost to Merge Stones](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones/README.md) | 🔴 Hard | `Array`, `Dynamic Programming`, `Prefix Sum` | Java | [Open Folder](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones) |
 
-### Range 1001-1100 (11 Problems)
+### Range 1001-1100 (20 Problems)
 
 | ID | Problem Title | Difficulty | Topics | Language | Folder |
 | :---: | :--- | :---: | :--- | :---: | :--- |
+| `1001` | [Grid Illumination](./1001-1100/1001%20Grid%20Illumination/README.md) | 🔴 Hard | `Array`, `Hash Table` | Java | [Open Folder](./1001-1100/1001%20Grid%20Illumination) |
+| `1002` | [Find Common Characters](./1001-1100/1002%20Find%20Common%20Characters/README.md) | 🟢 Easy | `Array`, `Hash Table`, `String` | Java | [Open Folder](./1001-1100/1002%20Find%20Common%20Characters) |
+| `1003` | [Check If Word Is Valid After Substitutions](./1001-1100/1003%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md) | 🟡 Medium | `String`, `Stack` | Java | [Open Folder](./1001-1100/1003%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions) |
 | `1004` | [Max Consecutive Ones III](./1001-1100/1004%20Max%20Consecutive%20Ones%20III/README.md) | 🟡 Medium | `Array`, `Binary Search`, `Sliding Window`, `Prefix Sum` | JavaScript | [Open Folder](./1001-1100/1004%20Max%20Consecutive%20Ones%20III) |
+| `1005` | [Maximize Sum Of Array After K Negations](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md) | 🟢 Easy | `Array`, `Greedy`, `Sorting` | Java | [Open Folder](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) |
+| `1006` | [Clumsy Factorial](./1001-1100/1006%20Clumsy%20Factorial/README.md) | 🟡 Medium | `Math`, `Stack`, `Simulation` | Java | [Open Folder](./1001-1100/1006%20Clumsy%20Factorial) |
+| `1007` | [Minimum Domino Rotations For Equal Row](./1001-1100/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/README.md) | 🟡 Medium | `Array`, `Greedy` | Java | [Open Folder](./1001-1100/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row) |
+| `1008` | [Construct Binary Search Tree from Preorder Traversal](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) | 🟡 Medium | `Array`, `Stack`, `Tree`, `Binary Search Tree`, `Monotonic Stack`, `Binary Tree` | Java | [Open Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
+| `1009` | [Complement of Base 10 Integer](./1001-1100/1009%20Complement%20of%20Base%2010%20Integer/README.md) | 🟢 Easy | `Bit Manipulation` | Java | [Open Folder](./1001-1100/1009%20Complement%20of%20Base%2010%20Integer) |
+| `1010` | [Pairs of Songs With Total Durations Divisible by 60](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md) | 🟡 Medium | `Array`, `Hash Table`, `Counting` | Java | [Open Folder](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) |
 | `1014` | [Best Sightseeing Pair](./1001-1100/1014%20Best%20Sightseeing%20Pair/README.md) | 🟡 Medium | `Array`, `Dynamic Programming` | Java | [Open Folder](./1001-1100/1014%20Best%20Sightseeing%20Pair) |
 | `1028` | [Recover a Tree From Preorder Traversal](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal/README.md) | 🔴 Hard | `String`, `Tree`, `Depth-First Search`, `Binary Tree` | Java | [Open Folder](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal) |
 | `1045` | [Customers Who Bought All Products](./1001-1100/1045%20Customers%20Who%20Bought%20All%20Products/README.md) | 🟡 Medium | `Database` | SQL (MySQL) | [Open Folder](./1001-1100/1045%20Customers%20Who%20Bought%20All%20Products) |
@@ -909,9 +919,9 @@ Complete navigation index for all **642** solved LeetCode problems in this repos
 
 Every topic entry below uses **verified official LeetCode `topicTags`**. Problems with multiple tags appear under each applicable topic.
 
-**Topics (A–Z):** [0-1 BFS (2)](#0-1-bfs-2) · [0-1 Knapsack (1)](#0-1-knapsack-1) · [A* Search (1)](#a-search-1) · [Algorithm X (3)](#algorithm-x-3) · [Array (316)](#array-316) · [Backtracking (36)](#backtracking-36) · [Bellman–Ford Algorithm (1)](#bellmanford-algorithm-1) · [Bidirectional Search (3)](#bidirectional-search-3) · [Binary Indexed Tree (6)](#binary-indexed-tree-6) · [Binary Lifting (1)](#binary-lifting-1) · [Binary Search (56)](#binary-search-56) · [Binary Search Tree (8)](#binary-search-tree-8) · [Binary Tree (46)](#binary-tree-46) · [Bit Manipulation (38)](#bit-manipulation-38) · [Bitmask (4)](#bitmask-4) · [Boyer–Moore String-Search Algorithm (1)](#boyermoore-string-search-algorithm-1) · [Bracket Sequences (8)](#bracket-sequences-8) · [Brainteaser (3)](#brainteaser-3) · [Breadth-First Search (61)](#breadth-first-search-61) · [Brute-Force Search (1)](#brute-force-search-1) · [Bubble Sort (1)](#bubble-sort-1) · [Bucket Sort (1)](#bucket-sort-1) · [Combinatorics (3)](#combinatorics-3) · [Complete Knapsack (1)](#complete-knapsack-1) · [Convex Hull (1)](#convex-hull-1) · [Counting (19)](#counting-19) · [Dancing Links (1)](#dancing-links-1) · [Data Stream (5)](#data-stream-5) · [Database (51)](#database-51) · [Depth-First Search (65)](#depth-first-search-65) · [Design (20)](#design-20) · [Dijkstra's Algorithm (3)](#dijkstras-algorithm-3) · [Directed Acyclic Graph (2)](#directed-acyclic-graph-2) · [Divide and Conquer (14)](#divide-and-conquer-14) · [Doubly-Linked List (2)](#doubly-linked-list-2) · [DP on Trees (3)](#dp-on-trees-3) · [Dynamic Programming (105)](#dynamic-programming-105) · [Enumeration (7)](#enumeration-7) · [Euclidean Algorithm (3)](#euclidean-algorithm-3) · [Eulerian Circuit (3)](#eulerian-circuit-3) · [Eulerian Path (2)](#eulerian-path-2) · [Floyd's Cycle Finding Algorithm (1)](#floyds-cycle-finding-algorithm-1) · [Floyd–Warshall Algorithm (1)](#floydwarshall-algorithm-1) · [Geometry (4)](#geometry-4) · [Graph Theory (30)](#graph-theory-30) · [Greatest Common Divisor (3)](#greatest-common-divisor-3) · [Greedy (51)](#greedy-51) · [Hash Function (4)](#hash-function-4) · [Hash Table (104)](#hash-table-104) · [Heap (Priority Queue) (44)](#heap-priority-queue-44) · [Heuristic Search (2)](#heuristic-search-2) · [Interactive (1)](#interactive-1) · [Knapsack Problem (2)](#knapsack-problem-2) · [Knuth–Morris–Pratt Algorithm (2)](#knuthmorrispratt-algorithm-2) · [Kosaraju's Algorithm (2)](#kosarajus-algorithm-2) · [Least Common Multiple (1)](#least-common-multiple-1) · [Linked List (31)](#linked-list-31) · [Longest Common Subsequence (1)](#longest-common-subsequence-1) · [Longest Increasing Subsequence (3)](#longest-increasing-subsequence-3) · [Lowest Common Ancestor (1)](#lowest-common-ancestor-1) · [Manacher (2)](#manacher-2) · [Math (68)](#math-68) · [Matrix (52)](#matrix-52) · [Memoization (10)](#memoization-10) · [Merge Sort (4)](#merge-sort-4) · [Monotonic Queue (3)](#monotonic-queue-3) · [Monotonic Stack (13)](#monotonic-stack-13) · [Newton's Method (1)](#newtons-method-1) · [Number Theory (5)](#number-theory-5) · [Ordered Set (17)](#ordered-set-17) · [Polygons (1)](#polygons-1) · [Prefix Sum (32)](#prefix-sum-32) · [Primality Test (1)](#primality-test-1) · [Prime Number Sieve (1)](#prime-number-sieve-1) · [Queue (8)](#queue-8) · [Quickselect (1)](#quickselect-1) · [Quicksort (2)](#quicksort-2) · [Randomized (2)](#randomized-2) · [Range Minimum/Maximum Query (2)](#range-minimummaximum-query-2) · [Recursion (19)](#recursion-19) · [Rolling Hash (3)](#rolling-hash-3) · [Segment Tree (13)](#segment-tree-13) · [Semi-Eulerian Graph (2)](#semi-eulerian-graph-2) · [Shell (1)](#shell-1) · [Shortest Path (7)](#shortest-path-7) · [Sieve Theory (1)](#sieve-theory-1) · [Simulation (33)](#simulation-33) · [Sliding Window (31)](#sliding-window-31) · [Sorting (56)](#sorting-56) · [Stack (42)](#stack-42) · [String (148)](#string-148) · [String Matching (7)](#string-matching-7) · [Sweep Line (3)](#sweep-line-3) · [Tarjan's SCC Algorithm (2)](#tarjans-scc-algorithm-2) · [Topological Sort (6)](#topological-sort-6) · [Tournament Sort (1)](#tournament-sort-1) · [Treap (4)](#treap-4) · [Tree (51)](#tree-51) · [Trie (17)](#trie-17) · [Two Pointers (60)](#two-pointers-60) · [Union-Find (19)](#union-find-19) · [Z Algorithm (2)](#z-algorithm-2)
+**Topics (A–Z):** [0-1 BFS (2)](#0-1-bfs-2) · [0-1 Knapsack (1)](#0-1-knapsack-1) · [A* Search (1)](#a-search-1) · [Algorithm X (3)](#algorithm-x-3) · [Array (323)](#array-323) · [Backtracking (36)](#backtracking-36) · [Bellman–Ford Algorithm (1)](#bellmanford-algorithm-1) · [Bidirectional Search (3)](#bidirectional-search-3) · [Binary Indexed Tree (6)](#binary-indexed-tree-6) · [Binary Lifting (1)](#binary-lifting-1) · [Binary Search (56)](#binary-search-56) · [Binary Search Tree (9)](#binary-search-tree-9) · [Binary Tree (47)](#binary-tree-47) · [Bit Manipulation (39)](#bit-manipulation-39) · [Bitmask (4)](#bitmask-4) · [Boyer–Moore String-Search Algorithm (1)](#boyermoore-string-search-algorithm-1) · [Bracket Sequences (8)](#bracket-sequences-8) · [Brainteaser (3)](#brainteaser-3) · [Breadth-First Search (61)](#breadth-first-search-61) · [Brute-Force Search (1)](#brute-force-search-1) · [Bubble Sort (1)](#bubble-sort-1) · [Bucket Sort (1)](#bucket-sort-1) · [Combinatorics (3)](#combinatorics-3) · [Complete Knapsack (1)](#complete-knapsack-1) · [Convex Hull (1)](#convex-hull-1) · [Counting (20)](#counting-20) · [Dancing Links (1)](#dancing-links-1) · [Data Stream (5)](#data-stream-5) · [Database (51)](#database-51) · [Depth-First Search (65)](#depth-first-search-65) · [Design (20)](#design-20) · [Dijkstra's Algorithm (3)](#dijkstras-algorithm-3) · [Directed Acyclic Graph (2)](#directed-acyclic-graph-2) · [Divide and Conquer (14)](#divide-and-conquer-14) · [Doubly-Linked List (2)](#doubly-linked-list-2) · [DP on Trees (3)](#dp-on-trees-3) · [Dynamic Programming (106)](#dynamic-programming-106) · [Enumeration (7)](#enumeration-7) · [Euclidean Algorithm (3)](#euclidean-algorithm-3) · [Eulerian Circuit (3)](#eulerian-circuit-3) · [Eulerian Path (2)](#eulerian-path-2) · [Floyd's Cycle Finding Algorithm (1)](#floyds-cycle-finding-algorithm-1) · [Floyd–Warshall Algorithm (1)](#floydwarshall-algorithm-1) · [Geometry (4)](#geometry-4) · [Graph Theory (30)](#graph-theory-30) · [Greatest Common Divisor (3)](#greatest-common-divisor-3) · [Greedy (53)](#greedy-53) · [Hash Function (4)](#hash-function-4) · [Hash Table (107)](#hash-table-107) · [Heap (Priority Queue) (44)](#heap-priority-queue-44) · [Heuristic Search (2)](#heuristic-search-2) · [Interactive (1)](#interactive-1) · [Knapsack Problem (2)](#knapsack-problem-2) · [Knuth–Morris–Pratt Algorithm (2)](#knuthmorrispratt-algorithm-2) · [Kosaraju's Algorithm (2)](#kosarajus-algorithm-2) · [Least Common Multiple (1)](#least-common-multiple-1) · [Linked List (31)](#linked-list-31) · [Longest Common Subsequence (1)](#longest-common-subsequence-1) · [Longest Increasing Subsequence (3)](#longest-increasing-subsequence-3) · [Lowest Common Ancestor (1)](#lowest-common-ancestor-1) · [Manacher (2)](#manacher-2) · [Math (69)](#math-69) · [Matrix (52)](#matrix-52) · [Memoization (10)](#memoization-10) · [Merge Sort (4)](#merge-sort-4) · [Monotonic Queue (3)](#monotonic-queue-3) · [Monotonic Stack (14)](#monotonic-stack-14) · [Newton's Method (1)](#newtons-method-1) · [Number Theory (5)](#number-theory-5) · [Ordered Set (17)](#ordered-set-17) · [Polygons (1)](#polygons-1) · [Prefix Sum (33)](#prefix-sum-33) · [Primality Test (1)](#primality-test-1) · [Prime Number Sieve (1)](#prime-number-sieve-1) · [Queue (8)](#queue-8) · [Quickselect (1)](#quickselect-1) · [Quicksort (2)](#quicksort-2) · [Randomized (2)](#randomized-2) · [Range Minimum/Maximum Query (2)](#range-minimummaximum-query-2) · [Recursion (19)](#recursion-19) · [Rolling Hash (3)](#rolling-hash-3) · [Segment Tree (13)](#segment-tree-13) · [Semi-Eulerian Graph (2)](#semi-eulerian-graph-2) · [Shell (1)](#shell-1) · [Shortest Path (7)](#shortest-path-7) · [Sieve Theory (1)](#sieve-theory-1) · [Simulation (34)](#simulation-34) · [Sliding Window (31)](#sliding-window-31) · [Sorting (57)](#sorting-57) · [Stack (45)](#stack-45) · [String (150)](#string-150) · [String Matching (7)](#string-matching-7) · [Sweep Line (3)](#sweep-line-3) · [Tarjan's SCC Algorithm (2)](#tarjans-scc-algorithm-2) · [Topological Sort (6)](#topological-sort-6) · [Tournament Sort (1)](#tournament-sort-1) · [Treap (4)](#treap-4) · [Tree (52)](#tree-52) · [Trie (17)](#trie-17) · [Two Pointers (60)](#two-pointers-60) · [Union-Find (19)](#union-find-19) · [Z Algorithm (2)](#z-algorithm-2)
 
-### Array (316)
+### Array (323)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -1072,7 +1082,14 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0962` | Maximum Width Ramp | 🟡 Medium | Java | [README](./901-1000/0962%20Maximum%20Width%20Ramp/README.md) · [Folder](./901-1000/0962%20Maximum%20Width%20Ramp) |
 | `0983` | Minimum Cost For Tickets | 🟡 Medium | Java | [README](./901-1000/0983%20Minimum%20Cost%20For%20Tickets/README.md) · [Folder](./901-1000/0983%20Minimum%20Cost%20For%20Tickets) |
 | `0994` | Rotting Oranges | 🟡 Medium | JavaScript | [README](./901-1000/0994%20Rotting%20Oranges/README.md) · [Folder](./901-1000/0994%20Rotting%20Oranges) |
+| `1000` | Minimum Cost to Merge Stones | 🔴 Hard | Java | [README](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones/README.md) · [Folder](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones) |
+| `1001` | Grid Illumination | 🔴 Hard | Java | [README](./1001-1100/1001%20Grid%20Illumination/README.md) · [Folder](./1001-1100/1001%20Grid%20Illumination) |
+| `1002` | Find Common Characters | 🟢 Easy | Java | [README](./1001-1100/1002%20Find%20Common%20Characters/README.md) · [Folder](./1001-1100/1002%20Find%20Common%20Characters) |
 | `1004` | Max Consecutive Ones III | 🟡 Medium | JavaScript | [README](./1001-1100/1004%20Max%20Consecutive%20Ones%20III/README.md) · [Folder](./1001-1100/1004%20Max%20Consecutive%20Ones%20III) |
+| `1005` | Maximize Sum Of Array After K Negations | 🟢 Easy | Java | [README](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md) · [Folder](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) |
+| `1007` | Minimum Domino Rotations For Equal Row | 🟡 Medium | Java | [README](./1001-1100/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/README.md) · [Folder](./1001-1100/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row) |
+| `1008` | Construct Binary Search Tree from Preorder Traversal | 🟡 Medium | Java | [README](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
+| `1010` | Pairs of Songs With Total Durations Divisible by 60 | 🟡 Medium | Java | [README](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md) · [Folder](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) |
 | `1014` | Best Sightseeing Pair | 🟡 Medium | Java | [README](./1001-1100/1014%20Best%20Sightseeing%20Pair/README.md) · [Folder](./1001-1100/1014%20Best%20Sightseeing%20Pair) |
 | `1072` | Flip Columns For Maximum Number of Equal Rows | 🟡 Medium | Java | [README](./1001-1100/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows/README.md) · [Folder](./1001-1100/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows) |
 | `1207` | Unique Number of Occurrences | 🟢 Easy | Java | [README](./1201-1300/1207%20Unique%20Number%20of%20Occurrences/README.md) · [Folder](./1201-1300/1207%20Unique%20Number%20of%20Occurrences) |
@@ -1231,7 +1248,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3789` | Minimum Cost to Acquire Required Items | 🟡 Medium | Java | [README](./3701-3800/3789%20Minimum%20Cost%20to%20Acquire%20Required%20Items/README.md) · [Folder](./3701-3800/3789%20Minimum%20Cost%20to%20Acquire%20Required%20Items) |
 | `3841` | Palindromic Path Queries in a Tree | 🔴 Hard | C++ | [README](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree/README.md) · [Folder](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree) |
 | `3882` | Minimum XOR Path in a Grid | 🟡 Medium | Java | [README](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid/README.md) · [Folder](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid) |
-### String (148)
+### String (150)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -1316,6 +1333,8 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0916` | Word Subsets | 🟡 Medium | Java | [README](./901-1000/0916%20Word%20Subsets/README.md) · [Folder](./901-1000/0916%20Word%20Subsets) |
 | `0921` | Minimum Add to Make Parentheses Valid | 🟡 Medium | Java | [README](./901-1000/0921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md) · [Folder](./901-1000/0921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid) |
 | `0925` | Long Pressed Name | 🟢 Easy | JavaScript | [README](./901-1000/0925%20Long%20Pressed%20Name/README.md) · [Folder](./901-1000/0925%20Long%20Pressed%20Name) |
+| `1002` | Find Common Characters | 🟢 Easy | Java | [README](./1001-1100/1002%20Find%20Common%20Characters/README.md) · [Folder](./1001-1100/1002%20Find%20Common%20Characters) |
+| `1003` | Check If Word Is Valid After Substitutions | 🟡 Medium | Java | [README](./1001-1100/1003%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md) · [Folder](./1001-1100/1003%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions) |
 | `1028` | Recover a Tree From Preorder Traversal | 🔴 Hard | Java | [README](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal) |
 | `1047` | Remove All Adjacent Duplicates In String | 🟢 Easy | JavaScript | [README](./1001-1100/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md) · [Folder](./1001-1100/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String) |
 | `1071` | Greatest Common Divisor of Strings | 🟢 Easy | JavaScript | [README](./1001-1100/1071%20Greatest%20Common%20Divisor%20of%20Strings/README.md) · [Folder](./1001-1100/1071%20Greatest%20Common%20Divisor%20of%20Strings) |
@@ -1383,7 +1402,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3503` | Longest Palindrome After Substring Concatenation I | 🟡 Medium | Java | [README](./3501-3600/3503%20Longest%20Palindrome%20After%20Substring%20Concatenation%20I/README.md) · [Folder](./3501-3600/3503%20Longest%20Palindrome%20After%20Substring%20Concatenation%20I) |
 | `3841` | Palindromic Path Queries in a Tree | 🔴 Hard | C++ | [README](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree/README.md) · [Folder](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree) |
 | `3970` | Shortest Path With At Most K Consecutive Identical Characters | 🟡 Medium | Java | [README](./3901-4000/3970%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/README.md) · [Folder](./3901-4000/3970%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) |
-### Dynamic Programming (105)
+### Dynamic Programming (106)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -1464,6 +1483,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0847` | Shortest Path Visiting All Nodes | 🔴 Hard | Java | [README](./801-900/0847%20Shortest%20Path%20Visiting%20All%20Nodes/README.md) · [Folder](./801-900/0847%20Shortest%20Path%20Visiting%20All%20Nodes) |
 | `0873` | Length of Longest Fibonacci Subsequence | 🟡 Medium | Java | [README](./801-900/0873%20Length%20of%20Longest%20Fibonacci%20Subsequence/README.md) · [Folder](./801-900/0873%20Length%20of%20Longest%20Fibonacci%20Subsequence) |
 | `0983` | Minimum Cost For Tickets | 🟡 Medium | Java | [README](./901-1000/0983%20Minimum%20Cost%20For%20Tickets/README.md) · [Folder](./901-1000/0983%20Minimum%20Cost%20For%20Tickets) |
+| `1000` | Minimum Cost to Merge Stones | 🔴 Hard | Java | [README](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones/README.md) · [Folder](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones) |
 | `1014` | Best Sightseeing Pair | 🟡 Medium | Java | [README](./1001-1100/1014%20Best%20Sightseeing%20Pair/README.md) · [Folder](./1001-1100/1014%20Best%20Sightseeing%20Pair) |
 | `1137` | N-th Tribonacci Number | 🟢 Easy | JavaScript | [README](./1101-1200/1137%20N-th%20Tribonacci%20Number/README.md) · [Folder](./1101-1200/1137%20N-th%20Tribonacci%20Number) |
 | `1143` | Longest Common Subsequence | 🟡 Medium | JavaScript | [README](./1101-1200/1143%20Longest%20Common%20Subsequence/README.md) · [Folder](./1101-1200/1143%20Longest%20Common%20Subsequence) |
@@ -1492,7 +1512,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3665` | Twisted Mirror Path Count | 🟡 Medium | C++ | [README](./3601-3700/3665%20Twisted%20Mirror%20Path%20Count/README.md) · [Folder](./3601-3700/3665%20Twisted%20Mirror%20Path%20Count) |
 | `3693` | Climbing Stairs II | 🟡 Medium | Java | [README](./3601-3700/3693%20Climbing%20Stairs%20II/README.md) · [Folder](./3601-3700/3693%20Climbing%20Stairs%20II) |
 | `3882` | Minimum XOR Path in a Grid | 🟡 Medium | Java | [README](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid/README.md) · [Folder](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid) |
-### Hash Table (104)
+### Hash Table (107)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -1541,6 +1561,9 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0884` | Uncommon Words from Two Sentences | 🟢 Easy | JavaScript | [README](./801-900/0884%20Uncommon%20Words%20from%20Two%20Sentences/README.md) · [Folder](./801-900/0884%20Uncommon%20Words%20from%20Two%20Sentences) |
 | `0889` | Construct Binary Tree from Preorder and Postorder Traversal | 🟡 Medium | Java | [README](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md) · [Folder](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) |
 | `0916` | Word Subsets | 🟡 Medium | Java | [README](./901-1000/0916%20Word%20Subsets/README.md) · [Folder](./901-1000/0916%20Word%20Subsets) |
+| `1001` | Grid Illumination | 🔴 Hard | Java | [README](./1001-1100/1001%20Grid%20Illumination/README.md) · [Folder](./1001-1100/1001%20Grid%20Illumination) |
+| `1002` | Find Common Characters | 🟢 Easy | Java | [README](./1001-1100/1002%20Find%20Common%20Characters/README.md) · [Folder](./1001-1100/1002%20Find%20Common%20Characters) |
+| `1010` | Pairs of Songs With Total Durations Divisible by 60 | 🟡 Medium | Java | [README](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md) · [Folder](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) |
 | `1072` | Flip Columns For Maximum Number of Equal Rows | 🟡 Medium | Java | [README](./1001-1100/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows/README.md) · [Folder](./1001-1100/1072%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows) |
 | `1079` | Letter Tile Possibilities | 🟡 Medium | Java | [README](./1001-1100/1079%20Letter%20Tile%20Possibilities/README.md) · [Folder](./1001-1100/1079%20Letter%20Tile%20Possibilities) |
 | `1207` | Unique Number of Occurrences | 🟢 Easy | Java | [README](./1201-1300/1207%20Unique%20Number%20of%20Occurrences/README.md) · [Folder](./1201-1300/1207%20Unique%20Number%20of%20Occurrences) |
@@ -1600,7 +1623,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3378` | Count Connected Components in LCM Graph | 🔴 Hard | Java | [README](./3301-3400/3378%20Count%20Connected%20Components%20in%20LCM%20Graph/README.md) · [Folder](./3301-3400/3378%20Count%20Connected%20Components%20in%20LCM%20Graph) |
 | `3505` | Minimum Operations to Make Elements Within K Subarrays Equal | 🔴 Hard | Java | [README](./3501-3600/3505%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) · [Folder](./3501-3600/3505%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal) |
 | `3789` | Minimum Cost to Acquire Required Items | 🟡 Medium | Java | [README](./3701-3800/3789%20Minimum%20Cost%20to%20Acquire%20Required%20Items/README.md) · [Folder](./3701-3800/3789%20Minimum%20Cost%20to%20Acquire%20Required%20Items) |
-### Math (68)
+### Math (69)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -1650,6 +1673,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0805` | Split Array With Same Average | 🔴 Hard | Java | [README](./801-900/0805%20Split%20Array%20With%20Same%20Average/README.md) · [Folder](./801-900/0805%20Split%20Array%20With%20Same%20Average) |
 | `0810` | Chalkboard XOR Game | 🔴 Hard | Java | [README](./801-900/0810%20Chalkboard%20XOR%20Game/README.md) · [Folder](./801-900/0810%20Chalkboard%20XOR%20Game) |
 | `0829` | Consecutive Numbers Sum | 🔴 Hard | Java | [README](./801-900/0829%20Consecutive%20Numbers%20Sum/README.md) · [Folder](./801-900/0829%20Consecutive%20Numbers%20Sum) |
+| `1006` | Clumsy Factorial | 🟡 Medium | Java | [README](./1001-1100/1006%20Clumsy%20Factorial/README.md) · [Folder](./1001-1100/1006%20Clumsy%20Factorial) |
 | `1071` | Greatest Common Divisor of Strings | 🟢 Easy | JavaScript | [README](./1001-1100/1071%20Greatest%20Common%20Divisor%20of%20Strings/README.md) · [Folder](./1001-1100/1071%20Greatest%20Common%20Divisor%20of%20Strings) |
 | `1137` | N-th Tribonacci Number | 🟢 Easy | JavaScript | [README](./1101-1200/1137%20N-th%20Tribonacci%20Number/README.md) · [Folder](./1101-1200/1137%20N-th%20Tribonacci%20Number) |
 | `1352` | Product of the Last K Numbers | 🟡 Medium | Java | [README](./1301-1400/1352%20Product%20of%20the%20Last%20K%20Numbers/README.md) · [Folder](./1301-1400/1352%20Product%20of%20the%20Last%20K%20Numbers) |
@@ -1871,7 +1895,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3243` | Shortest Distance After Road Addition Queries I | 🟡 Medium | Java | [README](./3201-3300/3243%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I/README.md) · [Folder](./3201-3300/3243%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I) |
 | `3376` | Minimum Time to Break Locks I | 🟡 Medium | Java | [README](./3301-3400/3376%20Minimum%20Time%20to%20Break%20Locks%20I/README.md) · [Folder](./3301-3400/3376%20Minimum%20Time%20to%20Break%20Locks%20I) |
 | `3619` | Count Islands With Total Value Divisible by K | 🟡 Medium | Java | [README](./3601-3700/3619%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/README.md) · [Folder](./3601-3700/3619%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) |
-### Sorting (56)
+### Sorting (57)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -1904,6 +1928,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0757` | Set Intersection Size At Least Two | 🔴 Hard | Java | [README](./701-800/0757%20Set%20Intersection%20Size%20At%20Least%20Two/README.md) · [Folder](./701-800/0757%20Set%20Intersection%20Size%20At%20Least%20Two) |
 | `0768` | Max Chunks To Make Sorted II | 🔴 Hard | Java | [README](./701-800/0768%20Max%20Chunks%20To%20Make%20Sorted%20II/README.md) · [Folder](./701-800/0768%20Max%20Chunks%20To%20Make%20Sorted%20II) |
 | `0769` | Max Chunks To Make Sorted | 🟡 Medium | Java | [README](./701-800/0769%20Max%20Chunks%20To%20Make%20Sorted/README.md) · [Folder](./701-800/0769%20Max%20Chunks%20To%20Make%20Sorted) |
+| `1005` | Maximize Sum Of Array After K Negations | 🟢 Easy | Java | [README](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md) · [Folder](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) |
 | `1268` | Search Suggestions System | 🟡 Medium | JavaScript | [README](./1201-1300/1268%20Search%20Suggestions%20System/README.md) · [Folder](./1201-1300/1268%20Search%20Suggestions%20System) |
 | `1331` | Rank Transform of an Array | 🟢 Easy | JavaScript | [README](./1301-1400/1331%20Rank%20Transform%20of%20an%20Array/README.md) · [Folder](./1301-1400/1331%20Rank%20Transform%20of%20an%20Array) |
 | `1346` | Check If N and Its Double Exist | 🟢 Easy | Java | [README](./1301-1400/1346%20Check%20If%20N%20and%20Its%20Double%20Exist/README.md) · [Folder](./1301-1400/1346%20Check%20If%20N%20and%20Its%20Double%20Exist) |
@@ -2047,7 +2072,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `1978` | Employees Whose Manager Left the Company | 🟢 Easy | SQL (MySQL) | [README](./1901-2000/1978%20Employees%20Whose%20Manager%20Left%20the%20Company/README.md) · [Folder](./1901-2000/1978%20Employees%20Whose%20Manager%20Left%20the%20Company) |
 | `2356` | Number of Unique Subjects Taught by Each Teacher | 🟢 Easy | SQL (MySQL) | [README](./2301-2400/2356%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/README.md) · [Folder](./2301-2400/2356%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher) |
 
-### Tree (51)
+### Tree (52)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2087,6 +2112,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0872` | Leaf-Similar Trees | 🟢 Easy | JavaScript | [README](./801-900/0872%20Leaf-Similar%20Trees/README.md) · [Folder](./801-900/0872%20Leaf-Similar%20Trees) |
 | `0889` | Construct Binary Tree from Preorder and Postorder Traversal | 🟡 Medium | Java | [README](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md) · [Folder](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) |
 | `0951` | Flip Equivalent Binary Trees | 🟡 Medium | JavaScript | [README](./901-1000/0951%20Flip%20Equivalent%20Binary%20Trees/README.md) · [Folder](./901-1000/0951%20Flip%20Equivalent%20Binary%20Trees) |
+| `1008` | Construct Binary Search Tree from Preorder Traversal | 🟡 Medium | Java | [README](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
 | `1028` | Recover a Tree From Preorder Traversal | 🔴 Hard | Java | [README](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal) |
 | `1161` | Maximum Level Sum of a Binary Tree | 🟡 Medium | Java | [README](./1101-1200/1161%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md) · [Folder](./1101-1200/1161%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree) |
 | `1261` | Find Elements in a Contaminated Binary Tree | 🟡 Medium | Java | [README](./1201-1300/1261%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README.md) · [Folder](./1201-1300/1261%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree) |
@@ -2102,7 +2128,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `2872` | Maximum Number of K-Divisible Components | 🔴 Hard | Java | [README](./2801-2900/2872%20Maximum%20Number%20of%20K-Divisible%20Components/README.md) · [Folder](./2801-2900/2872%20Maximum%20Number%20of%20K-Divisible%20Components) |
 | `3203` | Find Minimum Diameter After Merging Two Trees | 🔴 Hard | Java | [README](./3201-3300/3203%20Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees/README.md) · [Folder](./3201-3300/3203%20Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees) |
 | `3841` | Palindromic Path Queries in a Tree | 🔴 Hard | C++ | [README](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree/README.md) · [Folder](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree) |
-### Greedy (51)
+### Greedy (53)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2133,6 +2159,8 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0768` | Max Chunks To Make Sorted II | 🔴 Hard | Java | [README](./701-800/0768%20Max%20Chunks%20To%20Make%20Sorted%20II/README.md) · [Folder](./701-800/0768%20Max%20Chunks%20To%20Make%20Sorted%20II) |
 | `0769` | Max Chunks To Make Sorted | 🟡 Medium | Java | [README](./701-800/0769%20Max%20Chunks%20To%20Make%20Sorted/README.md) · [Folder](./701-800/0769%20Max%20Chunks%20To%20Make%20Sorted) |
 | `0921` | Minimum Add to Make Parentheses Valid | 🟡 Medium | Java | [README](./901-1000/0921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md) · [Folder](./901-1000/0921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid) |
+| `1005` | Maximize Sum Of Array After K Negations | 🟢 Easy | Java | [README](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/README.md) · [Folder](./1001-1100/1005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) |
+| `1007` | Minimum Domino Rotations For Equal Row | 🟡 Medium | Java | [README](./1001-1100/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/README.md) · [Folder](./1001-1100/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row) |
 | `1400` | Construct K Palindrome Strings | 🟡 Medium | Java | [README](./1301-1400/1400%20Construct%20K%20Palindrome%20Strings/README.md) · [Folder](./1301-1400/1400%20Construct%20K%20Palindrome%20Strings) |
 | `1405` | Longest Happy String | 🟡 Medium | Java | [README](./1401-1500/1405%20Longest%20Happy%20String/README.md) · [Folder](./1401-1500/1405%20Longest%20Happy%20String) |
 | `1671` | Minimum Number of Removals to Make Mountain Array | 🔴 Hard | JavaScript | [README](./1601-1700/1671%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/README.md) · [Folder](./1601-1700/1671%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array) |
@@ -2213,7 +2241,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3619` | Count Islands With Total Value Divisible by K | 🟡 Medium | Java | [README](./3601-3700/3619%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/README.md) · [Folder](./3601-3700/3619%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) |
 | `3665` | Twisted Mirror Path Count | 🟡 Medium | C++ | [README](./3601-3700/3665%20Twisted%20Mirror%20Path%20Count/README.md) · [Folder](./3601-3700/3665%20Twisted%20Mirror%20Path%20Count) |
 | `3882` | Minimum XOR Path in a Grid | 🟡 Medium | Java | [README](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid/README.md) · [Folder](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid) |
-### Binary Tree (46)
+### Binary Tree (47)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2252,6 +2280,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0872` | Leaf-Similar Trees | 🟢 Easy | JavaScript | [README](./801-900/0872%20Leaf-Similar%20Trees/README.md) · [Folder](./801-900/0872%20Leaf-Similar%20Trees) |
 | `0889` | Construct Binary Tree from Preorder and Postorder Traversal | 🟡 Medium | Java | [README](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md) · [Folder](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) |
 | `0951` | Flip Equivalent Binary Trees | 🟡 Medium | JavaScript | [README](./901-1000/0951%20Flip%20Equivalent%20Binary%20Trees/README.md) · [Folder](./901-1000/0951%20Flip%20Equivalent%20Binary%20Trees) |
+| `1008` | Construct Binary Search Tree from Preorder Traversal | 🟡 Medium | Java | [README](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
 | `1028` | Recover a Tree From Preorder Traversal | 🔴 Hard | Java | [README](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1028%20Recover%20a%20Tree%20From%20Preorder%20Traversal) |
 | `1161` | Maximum Level Sum of a Binary Tree | 🟡 Medium | Java | [README](./1101-1200/1161%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/README.md) · [Folder](./1101-1200/1161%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree) |
 | `1261` | Find Elements in a Contaminated Binary Tree | 🟡 Medium | Java | [README](./1201-1300/1261%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/README.md) · [Folder](./1201-1300/1261%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree) |
@@ -2263,7 +2292,6 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `2471` | Minimum Number of Operations to Sort a Binary Tree by Level | 🟡 Medium | Java | [README](./2401-2500/2471%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level/README.md) · [Folder](./2401-2500/2471%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level) |
 | `2583` | Kth Largest Sum in a Binary Tree | 🟡 Medium | JavaScript | [README](./2501-2600/2583%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree/README.md) · [Folder](./2501-2600/2583%20Kth%20Largest%20Sum%20in%20a%20Binary%20Tree) |
 | `2641` | Cousins in Binary Tree II | 🟡 Medium | JavaScript | [README](./2601-2700/2641%20Cousins%20in%20Binary%20Tree%20II/README.md) · [Folder](./2601-2700/2641%20Cousins%20in%20Binary%20Tree%20II) |
-
 ### Heap (Priority Queue) (44)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
@@ -2312,7 +2340,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3377` | Digit Operations to Make Two Integers Equal | 🟡 Medium | Java | [README](./3301-3400/3377%20Digit%20Operations%20to%20Make%20Two%20Integers%20Equal/README.md) · [Folder](./3301-3400/3377%20Digit%20Operations%20to%20Make%20Two%20Integers%20Equal) |
 | `3505` | Minimum Operations to Make Elements Within K Subarrays Equal | 🔴 Hard | Java | [README](./3501-3600/3505%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) · [Folder](./3501-3600/3505%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal) |
 | `3970` | Shortest Path With At Most K Consecutive Identical Characters | 🟡 Medium | Java | [README](./3901-4000/3970%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/README.md) · [Folder](./3901-4000/3970%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) |
-### Stack (42)
+### Stack (45)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2343,6 +2371,9 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0901` | Online Stock Span | 🟡 Medium | Java | [README](./901-1000/0901%20Online%20Stock%20Span/README.md) · [Folder](./901-1000/0901%20Online%20Stock%20Span) |
 | `0921` | Minimum Add to Make Parentheses Valid | 🟡 Medium | Java | [README](./901-1000/0921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/README.md) · [Folder](./901-1000/0921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid) |
 | `0962` | Maximum Width Ramp | 🟡 Medium | Java | [README](./901-1000/0962%20Maximum%20Width%20Ramp/README.md) · [Folder](./901-1000/0962%20Maximum%20Width%20Ramp) |
+| `1003` | Check If Word Is Valid After Substitutions | 🟡 Medium | Java | [README](./1001-1100/1003%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/README.md) · [Folder](./1001-1100/1003%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions) |
+| `1006` | Clumsy Factorial | 🟡 Medium | Java | [README](./1001-1100/1006%20Clumsy%20Factorial/README.md) · [Folder](./1001-1100/1006%20Clumsy%20Factorial) |
+| `1008` | Construct Binary Search Tree from Preorder Traversal | 🟡 Medium | Java | [README](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
 | `1047` | Remove All Adjacent Duplicates In String | 🟢 Easy | JavaScript | [README](./1001-1100/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String/README.md) · [Folder](./1001-1100/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String) |
 | `1106` | Parsing A Boolean Expression | 🔴 Hard | Java | [README](./1101-1200/1106%20Parsing%20A%20Boolean%20Expression/README.md) · [Folder](./1101-1200/1106%20Parsing%20A%20Boolean%20Expression) |
 | `1381` | Design a Stack With Increment Operation | 🟡 Medium | JavaScript | [README](./1301-1400/1381%20Design%20a%20Stack%20With%20Increment%20Operation/README.md) · [Folder](./1301-1400/1381%20Design%20a%20Stack%20With%20Increment%20Operation) |
@@ -2399,7 +2430,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `2698` | Find the Punishment Number of an Integer | 🟡 Medium | Java | [README](./2601-2700/2698%20Find%20the%20Punishment%20Number%20of%20an%20Integer/README.md) · [Folder](./2601-2700/2698%20Find%20the%20Punishment%20Number%20of%20an%20Integer) |
 | `3376` | Minimum Time to Break Locks I | 🟡 Medium | Java | [README](./3301-3400/3376%20Minimum%20Time%20to%20Break%20Locks%20I/README.md) · [Folder](./3301-3400/3376%20Minimum%20Time%20to%20Break%20Locks%20I) |
 
-### Bit Manipulation (38)
+### Bit Manipulation (39)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2416,6 +2447,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0805` | Split Array With Same Average | 🔴 Hard | Java | [README](./801-900/0805%20Split%20Array%20With%20Same%20Average/README.md) · [Folder](./801-900/0805%20Split%20Array%20With%20Same%20Average) |
 | `0810` | Chalkboard XOR Game | 🔴 Hard | Java | [README](./801-900/0810%20Chalkboard%20XOR%20Game/README.md) · [Folder](./801-900/0810%20Chalkboard%20XOR%20Game) |
 | `0847` | Shortest Path Visiting All Nodes | 🔴 Hard | Java | [README](./801-900/0847%20Shortest%20Path%20Visiting%20All%20Nodes/README.md) · [Folder](./801-900/0847%20Shortest%20Path%20Visiting%20All%20Nodes) |
+| `1009` | Complement of Base 10 Integer | 🟢 Easy | Java | [README](./1001-1100/1009%20Complement%20of%20Base%2010%20Integer/README.md) · [Folder](./1001-1100/1009%20Complement%20of%20Base%2010%20Integer) |
 | `1310` | XOR Queries of a Subarray | 🟡 Medium | JavaScript | [README](./1301-1400/1310%20XOR%20Queries%20of%20a%20Subarray/README.md) · [Folder](./1301-1400/1310%20XOR%20Queries%20of%20a%20Subarray) |
 | `1318` | Minimum Flips to Make a OR b Equal to c | 🟡 Medium | JavaScript | [README](./1301-1400/1318%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/README.md) · [Folder](./1301-1400/1318%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c) |
 | `1371` | Find the Longest Substring Containing Vowels in Even Counts | 🟡 Medium | JavaScript | [README](./1301-1400/1371%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts/README.md) · [Folder](./1301-1400/1371%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts) |
@@ -2441,7 +2473,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3376` | Minimum Time to Break Locks I | 🟡 Medium | Java | [README](./3301-3400/3376%20Minimum%20Time%20to%20Break%20Locks%20I/README.md) · [Folder](./3301-3400/3376%20Minimum%20Time%20to%20Break%20Locks%20I) |
 | `3841` | Palindromic Path Queries in a Tree | 🔴 Hard | C++ | [README](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree/README.md) · [Folder](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree) |
 | `3882` | Minimum XOR Path in a Grid | 🟡 Medium | Java | [README](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid/README.md) · [Folder](./3801-3900/3882%20Minimum%20XOR%20Path%20in%20a%20Grid) |
-### Simulation (33)
+### Simulation (34)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2453,6 +2485,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0735` | Asteroid Collision | 🟡 Medium | JavaScript | [README](./701-800/0735%20Asteroid%20Collision/README.md) · [Folder](./701-800/0735%20Asteroid%20Collision) |
 | `0749` | Contain Virus | 🔴 Hard | Java | [README](./701-800/0749%20Contain%20Virus/README.md) · [Folder](./701-800/0749%20Contain%20Virus) |
 | `0874` | Walking Robot Simulation | 🟡 Medium | Java | [README](./801-900/0874%20Walking%20Robot%20Simulation/README.md) · [Folder](./801-900/0874%20Walking%20Robot%20Simulation) |
+| `1006` | Clumsy Factorial | 🟡 Medium | Java | [README](./1001-1100/1006%20Clumsy%20Factorial/README.md) · [Folder](./1001-1100/1006%20Clumsy%20Factorial) |
 | `1545` | Find Kth Bit in Nth Binary String | 🟡 Medium | JavaScript | [README](./1501-1600/1545%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/README.md) · [Folder](./1501-1600/1545%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String) |
 | `1606` | Find Servers That Handled Most Number of Requests | 🔴 Hard | Java | [README](./1601-1700/1606%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/README.md) · [Folder](./1601-1700/1606%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) |
 | `1700` | Number of Students Unable to Eat Lunch | 🟢 Easy | JavaScript | [README](./1601-1700/1700%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch/README.md) · [Folder](./1601-1700/1700%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch) |
@@ -2550,7 +2583,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3306` | Count of Substrings Containing Every Vowel and K Consonants II | 🟡 Medium | Java | [README](./3301-3400/3306%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II/README.md) · [Folder](./3301-3400/3306%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II) |
 | `3505` | Minimum Operations to Make Elements Within K Subarrays Equal | 🔴 Hard | Java | [README](./3501-3600/3505%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) · [Folder](./3501-3600/3505%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal) |
 
-### Prefix Sum (32)
+### Prefix Sum (33)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2563,6 +2596,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0732` | My Calendar III | 🔴 Hard | Java | [README](./701-800/0732%20My%20Calendar%20III/README.md) · [Folder](./701-800/0732%20My%20Calendar%20III) |
 | `0798` | Smallest Rotation with Highest Score | 🔴 Hard | Java | [README](./701-800/0798%20Smallest%20Rotation%20with%20Highest%20Score/README.md) · [Folder](./701-800/0798%20Smallest%20Rotation%20with%20Highest%20Score) |
 | `0862` | Shortest Subarray with Sum at Least K | 🔴 Hard | Java | [README](./801-900/0862%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README.md) · [Folder](./801-900/0862%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K) |
+| `1000` | Minimum Cost to Merge Stones | 🔴 Hard | Java | [README](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones/README.md) · [Folder](./901-1000/1000%20Minimum%20Cost%20to%20Merge%20Stones) |
 | `1004` | Max Consecutive Ones III | 🟡 Medium | JavaScript | [README](./1001-1100/1004%20Max%20Consecutive%20Ones%20III/README.md) · [Folder](./1001-1100/1004%20Max%20Consecutive%20Ones%20III) |
 | `1310` | XOR Queries of a Subarray | 🟡 Medium | JavaScript | [README](./1301-1400/1310%20XOR%20Queries%20of%20a%20Subarray/README.md) · [Folder](./1301-1400/1310%20XOR%20Queries%20of%20a%20Subarray) |
 | `1352` | Product of the Last K Numbers | 🟡 Medium | Java | [README](./1301-1400/1352%20Product%20of%20the%20Last%20K%20Numbers/README.md) · [Folder](./1301-1400/1352%20Product%20of%20the%20Last%20K%20Numbers) |
@@ -2620,11 +2654,12 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `3243` | Shortest Distance After Road Addition Queries I | 🟡 Medium | Java | [README](./3201-3300/3243%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I/README.md) · [Folder](./3201-3300/3243%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I) |
 | `3377` | Digit Operations to Make Two Integers Equal | 🟡 Medium | Java | [README](./3301-3400/3377%20Digit%20Operations%20to%20Make%20Two%20Integers%20Equal/README.md) · [Folder](./3301-3400/3377%20Digit%20Operations%20to%20Make%20Two%20Integers%20Equal) |
 | `3970` | Shortest Path With At Most K Consecutive Identical Characters | 🟡 Medium | Java | [README](./3901-4000/3970%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/README.md) · [Folder](./3901-4000/3970%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) |
-### Counting (19)
+### Counting (20)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
 | `0884` | Uncommon Words from Two Sentences | 🟢 Easy | JavaScript | [README](./801-900/0884%20Uncommon%20Words%20from%20Two%20Sentences/README.md) · [Folder](./801-900/0884%20Uncommon%20Words%20from%20Two%20Sentences) |
+| `1010` | Pairs of Songs With Total Durations Divisible by 60 | 🟡 Medium | Java | [README](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/README.md) · [Folder](./1001-1100/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) |
 | `1079` | Letter Tile Possibilities | 🟡 Medium | Java | [README](./1001-1100/1079%20Letter%20Tile%20Possibilities/README.md) · [Folder](./1001-1100/1079%20Letter%20Tile%20Possibilities) |
 | `1267` | Count Servers that Communicate | 🟡 Medium | Java | [README](./1201-1300/1267%20Count%20Servers%20that%20Communicate/README.md) · [Folder](./1201-1300/1267%20Count%20Servers%20that%20Communicate) |
 | `1400` | Construct K Palindrome Strings | 🟡 Medium | Java | [README](./1301-1400/1400%20Construct%20K%20Palindrome%20Strings/README.md) · [Folder](./1301-1400/1400%20Construct%20K%20Palindrome%20Strings) |
@@ -2643,7 +2678,6 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `2529` | Maximum Count of Positive Integer and Negative Integer | 🟢 Easy | Java | [README](./2501-2600/2529%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/README.md) · [Folder](./2501-2600/2529%20Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | 🟡 Medium | Java | [README](./2901-3000/2981%20Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I/README.md) · [Folder](./2901-3000/2981%20Find%20Longest%20Special%20Substring%20That%20Occurs%20Thrice%20I) |
 | `3223` | Minimum Length of String After Operations | 🟡 Medium | Java | [README](./3201-3300/3223%20Minimum%20Length%20of%20String%20After%20Operations/README.md) · [Folder](./3201-3300/3223%20Minimum%20Length%20of%20String%20After%20Operations) |
-
 ### Design (20)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
@@ -2775,7 +2809,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0889` | Construct Binary Tree from Preorder and Postorder Traversal | 🟡 Medium | Java | [README](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/README.md) · [Folder](./801-900/0889%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal) |
 | `3841` | Palindromic Path Queries in a Tree | 🔴 Hard | C++ | [README](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree/README.md) · [Folder](./3801-3900/3841%20Palindromic%20Path%20Queries%20in%20a%20Tree) |
 
-### Monotonic Stack (13)
+### Monotonic Stack (14)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2789,6 +2823,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0769` | Max Chunks To Make Sorted | 🟡 Medium | Java | [README](./701-800/0769%20Max%20Chunks%20To%20Make%20Sorted/README.md) · [Folder](./701-800/0769%20Max%20Chunks%20To%20Make%20Sorted) |
 | `0901` | Online Stock Span | 🟡 Medium | Java | [README](./901-1000/0901%20Online%20Stock%20Span/README.md) · [Folder](./901-1000/0901%20Online%20Stock%20Span) |
 | `0962` | Maximum Width Ramp | 🟡 Medium | Java | [README](./901-1000/0962%20Maximum%20Width%20Ramp/README.md) · [Folder](./901-1000/0962%20Maximum%20Width%20Ramp) |
+| `1008` | Construct Binary Search Tree from Preorder Traversal | 🟡 Medium | Java | [README](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
 | `1475` | Final Prices With a Special Discount in a Shop | 🟢 Easy | JavaScript | [README](./1401-1500/1475%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/README.md) · [Folder](./1401-1500/1475%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop) |
 | `1574` | Shortest Subarray to be Removed to Make Array Sorted | 🟡 Medium | Java | [README](./1501-1600/1574%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted/README.md) · [Folder](./1501-1600/1574%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted) |
 | `2940` | Find Building Where Alice and Bob Can Meet | 🔴 Hard | Java | [README](./2901-3000/2940%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/README.md) · [Folder](./2901-3000/2940%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet) |
@@ -2824,7 +2859,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0773` | Sliding Puzzle | 🔴 Hard | Java | [README](./701-800/0773%20Sliding%20Puzzle/README.md) · [Folder](./701-800/0773%20Sliding%20Puzzle) |
 | `1137` | N-th Tribonacci Number | 🟢 Easy | JavaScript | [README](./1101-1200/1137%20N-th%20Tribonacci%20Number/README.md) · [Folder](./1101-1200/1137%20N-th%20Tribonacci%20Number) |
 
-### Binary Search Tree (8)
+### Binary Search Tree (9)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
 | :---: | :--- | :---: | :---: | :--- |
@@ -2836,7 +2871,7 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 | `0109` | Convert Sorted List to Binary Search Tree | 🟡 Medium | Java | [README](./101-200/0109%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/README.md) · [Folder](./101-200/0109%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree) |
 | `0450` | Delete Node in a BST | 🟡 Medium | JavaScript | [README](./401-500/0450%20Delete%20Node%20in%20a%20BST/README.md) · [Folder](./401-500/0450%20Delete%20Node%20in%20a%20BST) |
 | `0700` | Search in a Binary Search Tree | 🟢 Easy | Java | [README](./601-700/0700%20Search%20in%20a%20Binary%20Search%20Tree/README.md) · [Folder](./601-700/0700%20Search%20in%20a%20Binary%20Search%20Tree) |
-
+| `1008` | Construct Binary Search Tree from Preorder Traversal | 🟡 Medium | Java | [README](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/README.md) · [Folder](./1001-1100/1008%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |
 ### Bracket Sequences (8)
 
 | ID | Problem Title | Difficulty | Language | Documentation |
