@@ -1,6 +1,6 @@
 # 📚 LeetCode Solutions — Complete Problem & Topic Index
 
-Complete navigation index for all **769** solved LeetCode problems in this repository (**202** Easy · **405** Medium · **162** Hard), organized both **by Numeric Problem Range** and **by Verified Topic / Tag**.
+Complete navigation index for all **773** solved LeetCode problems in this repository (**203** Easy · **407** Medium · **163** Hard), organized both **by Numeric Problem Range** and **by Verified Topic / Tag**.
 
 ⬅️ **[Back to Root README](./README.md)**
 
@@ -10,7 +10,7 @@ Complete navigation index for all **769** solved LeetCode problems in this repos
 
 - [Part 1: Index by Problem Range](#part-1-index-by-problem-range)
 - [Part 2: Topic-Wise Index (112 Verified LeetCode Topics)](#part-2-topic-wise-index-112-verified-leetcode-topics)
-- [Untagged on LeetCode (33 Problems)](#untagged-on-leetcode-33-problems)
+- [Untagged on LeetCode (37 Problems)](#untagged-on-leetcode-37-problems)
 
 ### Numeric Range Jump Table
 
@@ -57,7 +57,7 @@ Complete navigation index for all **769** solved LeetCode problems in this repos
 | **[3801-3900](#range-3801-3900-2-problems)** | 2 | 0 | 1 | 1 | [`3801-3900/`](./3801-3900) |
 | **[3901-4000](#range-3901-4000-3-problems)** | 3 | 2 | 1 | 0 | [`3901-4000/`](./3901-4000) |
 | **[4001-4100](#range-4001-4100-2-problems)** | 2 | 0 | 2 | 0 | [`4001-4100/`](./4001-4100) |
-| **[4101-4200](#range-4101-4200-2-problems)** | 2 | 0 | 2 | 0 | [`4101-4200/`](./4101-4200) |
+| **[4101-4200](#range-4101-4200-6-problems)** | 6 | 1 | 4 | 1 | [`4101-4200/`](./4101-4200) |
 
 ---
 
@@ -1035,12 +1035,16 @@ Complete navigation index for all **769** solved LeetCode problems in this repos
 | `4001` | [Aggregate Two Time Series](./4001-4100/4001%20Aggregate%20Two%20Time%20Series/README.md) | 🟡 Medium | `Array`, `Two Pointers` | Java | [Open Folder](./4001-4100/4001%20Aggregate%20Two%20Time%20Series) |
 | `4002` | [Count Valid Sequences](./4001-4100/4002%20Count%20Valid%20Sequences/README.md) | 🟡 Medium | `Math`, `Combinatorics` | Java | [Open Folder](./4001-4100/4002%20Count%20Valid%20Sequences) |
 
-### Range 4101-4200 (2 Problems)
+### Range 4101-4200 (6 Problems)
 
 | ID | Problem Title | Difficulty | Topics | Language | Folder |
 | :---: | :--- | :---: | :--- | :---: | :--- |
 | `4106` | [Find Mismatched Segments Between Two Strings](./4101-4200/4106%20Find%20Mismatched%20Segments%20Between%20Two%20Strings/README.md) | 🟡 Medium | `Unavailable (Not tagged on LeetCode)` | Java | [Open Folder](./4101-4200/4106%20Find%20Mismatched%20Segments%20Between%20Two%20Strings) |
 | `4107` | [Count Valid Suffix Sorts I](./4101-4200/4107%20Count%20Valid%20Suffix%20Sorts%20I/README.md) | 🟡 Medium | `Unavailable (Not tagged on LeetCode)` | Java | [Open Folder](./4101-4200/4107%20Count%20Valid%20Suffix%20Sorts%20I) |
+| `4116` | [Assign Umbrella on Rainy Days](./4101-4200/4116%20Assign%20Umbrella%20on%20Rainy%20Days/README.md) | 🟢 Easy | Unavailable (Not tagged on LeetCode) | Java | [Open Folder](./4101-4200/4116%20Assign%20Umbrella%20on%20Rainy%20Days) |
+| `4117` | [Minimum Range After Sum Operations](./4101-4200/4117%20Minimum%20Range%20After%20Sum%20Operations/README.md) | 🟡 Medium | Unavailable (Not tagged on LeetCode) | Java | [Open Folder](./4101-4200/4117%20Minimum%20Range%20After%20Sum%20Operations) |
+| `4118` | [Minimum Operations to Make Mountain Array I](./4101-4200/4118%20Minimum%20Operations%20to%20Make%20Mountain%20Array%20I/README.md) | 🟡 Medium | Unavailable (Not tagged on LeetCode) | Java | [Open Folder](./4101-4200/4118%20Minimum%20Operations%20to%20Make%20Mountain%20Array%20I) |
+| `4119` | [Minimum Set Bits in a Valid Integer](./4101-4200/4119%20Minimum%20Set%20Bits%20in%20a%20Valid%20Integer/README.md) | 🔴 Hard | Unavailable (Not tagged on LeetCode) | Java | [Open Folder](./4101-4200/4119%20Minimum%20Set%20Bits%20in%20a%20Valid%20Integer) |
 
 ## Part 2: Topic-Wise Index (112 Verified LeetCode Topics)
 
@@ -3885,9 +3889,9 @@ Every topic entry below uses **verified official LeetCode `topicTags`**. Problem
 
 ---
 
-## Untagged on LeetCode (33 Problems)
+## Untagged on LeetCode (37 Problems)
 
-The following problems officially have empty `topicTags` on LeetCode (30 problems from LeetCode's *30 Days of JavaScript* track and 3 recent contest/interview problems). Per repository documentation standards, no unverified tags have been invented.
+The following problems officially have empty `topicTags` on LeetCode (30 problems from LeetCode's *30 Days of JavaScript* track and 7 recent contest/interview problems). Per repository documentation standards, no unverified tags have been invented.
 
 | ID | Problem Title | Difficulty | Language | Official Tags | Folder |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -3924,3 +3928,7 @@ The following problems officially have empty `topicTags` on LeetCode (30 problem
 | `3963` | [Create Grid With Exactly One Path](./3901-4000/3963%20Create%20Grid%20With%20Exactly%20One%20Path/README.md) | 🟢 Easy | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./3901-4000/3963%20Create%20Grid%20With%20Exactly%20One%20Path) |
 | `4106` | [Find Mismatched Segments Between Two Strings](./4101-4200/4106%20Find%20Mismatched%20Segments%20Between%20Two%20Strings/README.md) | 🟡 Medium | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./4101-4200/4106%20Find%20Mismatched%20Segments%20Between%20Two%20Strings) |
 | `4107` | [Count Valid Suffix Sorts I](./4101-4200/4107%20Count%20Valid%20Suffix%20Sorts%20I/README.md) | 🟡 Medium | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./4101-4200/4107%20Count%20Valid%20Suffix%20Sorts%20I) |
+| `4116` | [Assign Umbrella on Rainy Days](./4101-4200/4116%20Assign%20Umbrella%20on%20Rainy%20Days/README.md) | 🟢 Easy | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./4101-4200/4116%20Assign%20Umbrella%20on%20Rainy%20Days) |
+| `4117` | [Minimum Range After Sum Operations](./4101-4200/4117%20Minimum%20Range%20After%20Sum%20Operations/README.md) | 🟡 Medium | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./4101-4200/4117%20Minimum%20Range%20After%20Sum%20Operations) |
+| `4118` | [Minimum Operations to Make Mountain Array I](./4101-4200/4118%20Minimum%20Operations%20to%20Make%20Mountain%20Array%20I/README.md) | 🟡 Medium | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./4101-4200/4118%20Minimum%20Operations%20to%20Make%20Mountain%20Array%20I) |
+| `4119` | [Minimum Set Bits in a Valid Integer](./4101-4200/4119%20Minimum%20Set%20Bits%20in%20a%20Valid%20Integer/README.md) | 🔴 Hard | Java | Unavailable (Not tagged on LeetCode) | [Open Folder](./4101-4200/4119%20Minimum%20Set%20Bits%20in%20a%20Valid%20Integer) |
