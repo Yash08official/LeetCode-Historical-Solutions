@@ -1,0 +1,123 @@
+---
+comments: true
+difficulty: Medium
+tags:
+  - Array
+  - Depth-First Search
+  - Breadth-First Search
+  - Matrix
+---
+
+# 417. Pacific Atlantic Water Flow
+
+**[View Problem on LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/)**
+
+| Attribute | Details |
+| :--- | :--- |
+| **Problem ID** | `0417` (`417`) |
+| **Difficulty** | Medium |
+| **Topics / Tags** | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| **Solution Language** | Java |
+
+---
+
+## Problem Description
+
+There is an `m x n` rectangular island that borders both the **Pacific Ocean** and **Atlantic Ocean**. The **Pacific Ocean** touches the island's left and top edges, and the **Atlantic Ocean** touches the island's right and bottom edges.
+
+The island is partitioned into a grid of square cells. You are given an `m x n` integer matrix `heights` where `heights[r][c]` represents the **height above sea level** of the cell at coordinate `(r, c)`.
+
+The island receives a lot of rain, and the rain water can flow to neighboring cells directly north, south, east, and west if the neighboring cell's height is **less than or equal to** the current cell's height. Water can flow from any cell adjacent to an ocean into the ocean.
+
+Return *a **2D list** of grid coordinates *`result`* where *`result[i] = [r_i, c_i]`* denotes that rain water can flow from cell *`(r_i, c_i)`* to **both** the Pacific and Atlantic oceans*.
+
+---
+
+## Examples
+
+### Example 1
+
+```text
+**Input:** heights = [[1,2,2,3,5],[3,2,3,4,4],[2,4,5,3,1],[6,7,1,4,5],[5,1,1,2,4]]
+**Output:** [[0,4],[1,3],[1,4],[2,2],[3,0],[3,1],[4,0]]
+**Explanation:** The following cells can flow to the Pacific and Atlantic oceans, as shown below:
+[0,4]: [0,4] -> Pacific Ocean 
+       [0,4] -> Atlantic Ocean
+[1,3]: [1,3] -> [0,3] -> Pacific Ocean 
+       [1,3] -> [1,4] -> Atlantic Ocean
+[1,4]: [1,4] -> [1,3] -> [0,3] -> Pacific Ocean 
+       [1,4] -> Atlantic Ocean
+[2,2]: [2,2] -> [1,2] -> [0,2] -> Pacific Ocean 
+       [2,2] -> [2,3] -> [2,4] -> Atlantic Ocean
+[3,0]: [3,0] -> Pacific Ocean 
+       [3,0] -> [4,0] -> Atlantic Ocean
+[3,1]: [3,1] -> [3,0] -> Pacific Ocean 
+       [3,1] -> [4,1] -> Atlantic Ocean
+[4,0]: [4,0] -> Pacific Ocean 
+       [4,0] -> Atlantic Ocean
+Note that there are other possible paths for these cells to flow to the Pacific and Atlantic oceans.
+```
+
+### Example 2
+
+```text
+**Input:** heights = [[1]]
+**Output:** [[0,0]]
+**Explanation:** The water can flow from the only cell to the Pacific and Atlantic oceans.
+```
+
+ 
+
+**
+
+---
+
+## Constraints
+
+**
+
+	
+- `m == heights.length`
+	
+- `n == heights[r].length`
+	
+- `1 <= m, n <= 200`
+	
+- `0 <= heights[r][c] <= 10^5`
+
+---
+
+## Problem Understanding
+
+- Return all grid coordinates from which rain water can flow (non-increasing height) to both the Pacific (top/left) and Atlantic (bottom/right) oceans.
+
+---
+
+## Approach
+
+### Optimized Approach (Dual Multi-Source Reverse BFS)
+1. Seed `q1`/`vis1` with all Pacific border cells and `q2`/`vis2` with all Atlantic border cells.
+2. Run BFS uphill (`heights[nx][ny] >= heights[x][y]`) from each ocean independently.
+3. Collect all cells visited by both BFS runs (`vis1[i][j] && vis2[i][j]`).
+
+---
+
+## Complexity Analysis
+
+- **Time Complexity:** $O(m \cdot n)$.\n- **Space Complexity:** $O(m \cdot n)$.
+
+---
+
+## Available Solutions
+
+Only verified solution files present in this folder are listed below:
+
+| Language | Solution File |
+| :--- | :--- |
+| **Java** | [417pacific-atlantic-water-flow.java](./417pacific-atlantic-water-flow.java) |
+
+---
+
+## Key Learnings
+
+- Reversing flow direction from ocean borders inward turns $O(m^2 n^2)$ per-cell searches into two linear $O(m \cdot n)$ multi-source BFS passes.
